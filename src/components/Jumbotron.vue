@@ -16,7 +16,7 @@
         background-image: url(../assets/banner.jpg);
         background-position: center; 
         background-repeat: no-repeat; 
-        background-size: cover;
+        background-size: auto;
     }
 
     .jumbotron h1 {
